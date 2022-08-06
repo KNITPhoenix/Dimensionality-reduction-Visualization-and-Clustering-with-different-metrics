@@ -16,5 +16,5 @@ We use the following for dimensionality reduction one by one:
 ## Visualization
 For the visualization purpose, we use babyplots, which exquisitily work on jupyter notebook. So don't try it on colab. It is a 3D map, that shows clusters very clearly.
 
-##K-Means Clustering
+## K-Means Clustering
 KMeans is to find the optimum number of clusters to use for clustering. Here, based on our training data, we know that there are 7 clusters in the dataset. However, we want to find the number of optimum clusters solely based on our data. We then use the best cluster number to calculate the silhouette score. We also use the same metric to evaluate the best number of cluster.
