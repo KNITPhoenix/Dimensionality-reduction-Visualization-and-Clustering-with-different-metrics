@@ -4,6 +4,8 @@
 Dataset we are dealing with here is 20Newsgroup dataset. The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. In this project, we are going to use a subset of this dataset to learn a bit about unsupervised learning methods in machine learning.
 We calculate tf-idf scores in the starting.
 
+!(https://github.com/KNITPhoenix/Dimensionality-reduction-Visualization-and-Clustering-with-different-metrics/blob/main/tfidf.png)
+
 ## Dimensionality reduction
 We use the following for dimensionality reduction one by one:
 
